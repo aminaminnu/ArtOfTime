@@ -62,7 +62,7 @@ git clone https://github.com/aminaminnu/ArtOfTime.git
 http://localhost:8080/ArtOfTime
 ```
 ## Screenshot of Art of Time
-![Art of Time Website](assets/home2.png)
+![Art of Time Website](assets/home%20(2).png)
 
 
 👩‍💻 Author
