@@ -66,7 +66,7 @@ http://localhost:8080/ArtOfTime
 ![Art of Time Website](assets/index1.png)
 ![Art of Time Website](assets/index2.png)
 ![Art of Time Website](assets/index3.png)
-![Art of Time Website](assets/SignUp.png)
+![Art of Time Website](assets/SignUp2.png)
 ![Art of Time Website](assets/watchlogin.png)
 ![Art of Time Website](assets/product2.png)
 ![Art of Time Website](assets/cart.png)
