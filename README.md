@@ -71,6 +71,10 @@ http://localhost:8080/ArtOfTime
 ![Art of Time Website](assets/product2.png)
 ![Art of Time Website](assets/cart.png)
 ![Art of Time Website](assets/wishlist.png)
+![Art of Time Website](assets/sellerAddWatch.png)
+
+
+
 
 
 👩‍💻 Author
